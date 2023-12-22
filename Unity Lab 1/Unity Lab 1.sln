@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarterGames.BuildVersions", "CarterGames.BuildVersions.csproj", "{A7C82CCF-6391-ECB7-F71A-2008F0643D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarterGames.BuildVersions.Editor", "CarterGames.BuildVersions.Editor.csproj", "{F8591B45-A2D3-5A93-B7D9-F305056FF247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarterGames.BuildVersions.Common", "CarterGames.BuildVersions.Common.csproj", "{06217872-DE1D-34D0-D043-1EF4BAB7CBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C82CCF-6391-ECB7-F71A-2008F0643D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C82CCF-6391-ECB7-F71A-2008F0643D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C82CCF-6391-ECB7-F71A-2008F0643D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C82CCF-6391-ECB7-F71A-2008F0643D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8591B45-A2D3-5A93-B7D9-F305056FF247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8591B45-A2D3-5A93-B7D9-F305056FF247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8591B45-A2D3-5A93-B7D9-F305056FF247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8591B45-A2D3-5A93-B7D9-F305056FF247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06217872-DE1D-34D0-D043-1EF4BAB7CBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06217872-DE1D-34D0-D043-1EF4BAB7CBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06217872-DE1D-34D0-D043-1EF4BAB7CBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06217872-DE1D-34D0-D043-1EF4BAB7CBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
